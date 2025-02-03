@@ -73,6 +73,11 @@ If elements take too long to load, increase the **WebDriverWait** duration in th
 
 ---
 
+## Author
+- Website - [Gbenga Opeyemi](https://gbenga.koyeb.app/)
+- X - [@gbengaope04](https://x.com/gbengaopeyemi04)
+- LinkedIn - [Opeyemi Oluwagbemiga](https://linkedin.com/in/opeyemi-oluwagbemiga-2ba61423b)
+
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
 Feel free to modify and distribute it according to the license terms.  
