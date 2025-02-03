@@ -25,23 +25,28 @@ Ensure you have the following installed before running the script:
 ## 🚀 Setup Instructions
 
 ### 1️. Clone the Repository
+
 Open your terminal or command prompt and run:
 ```bash
 git clone https://github.com/yourusername/unilag-course-downloader.git
 cd unilag-course-downloader
+```
 
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Set Up Environment Variable
 ```bash
 MATRIC_NO=your_matric_no
 PASSWORD=your_password
+```
 
 ### 4. Run the Script
 ```bash
 python main.py
+```
 
 
 ## 🔍 How It Works  
